@@ -1,5 +1,9 @@
 
 #include "myDIR.hpp"
+#include <sys/types.h>
+
+
+
 
 
 int mymount(const char *source, const char *target,

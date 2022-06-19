@@ -4,7 +4,6 @@
 
 
 // 10 MEGABYTES
-#define DEF_FS_SIZE 10 * (1 << 20)
 
 
 #endif
